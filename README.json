@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T06:16:38Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "openags",
                 "repo": "paper-search-mcp",
-                "stars": 2885,
+                "stars": 2891,
                 "topics": [
                   "ai-scientist",
                   "arxiv-papers",
@@ -47,7 +47,7 @@
                 "open_issues": 27,
                 "owner": "bytedance",
                 "repo": "pasa",
-                "stars": 1668,
+                "stars": 1669,
                 "topics": [
                   "research"
                 ]
@@ -77,7 +77,7 @@
                 "open_issues": 23,
                 "owner": "sinaptik-ai",
                 "repo": "pandas-ai",
-                "stars": 23896,
+                "stars": 23899,
                 "topics": [
                   "ai",
                   "csv",
@@ -112,7 +112,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4738,
+                "stars": 4743,
                 "topics": [
                   "agent",
                   "agentic",
@@ -212,11 +212,11 @@
                 "id": 192640529,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T01:42:11Z",
-                "open_issues": 957,
+                "last_commit": "2026-10-23T00:11:40Z",
+                "open_issues": 961,
                 "owner": "HumanSignal",
                 "repo": "label-studio",
-                "stars": 28519,
+                "stars": 28533,
                 "topics": [
                   "annotation",
                   "annotation-tool",
@@ -258,7 +258,7 @@
                 "open_issues": 19,
                 "owner": "snorkel-team",
                 "repo": "snorkel",
-                "stars": 6025,
+                "stars": 6026,
                 "topics": [
                   "ai",
                   "data-augmentation",
@@ -294,10 +294,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T09:33:57Z",
-                "open_issues": 54,
+                "open_issues": 60,
                 "owner": "K-Dense-AI",
                 "repo": "scientific-agent-skills",
-                "stars": 53644,
+                "stars": 53946,
                 "topics": [
                   "agent-skills",
                   "ai-scientist",
@@ -333,10 +333,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T09:33:57Z",
-                "open_issues": 54,
+                "open_issues": 60,
                 "owner": "K-Dense-AI",
                 "repo": "scientific-agent-skills",
-                "stars": 53644,
+                "stars": 53946,
                 "topics": [
                   "agent-skills",
                   "ai-scientist",
@@ -372,10 +372,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T14:23:06Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "google-deepmind",
                 "repo": "science-skills",
-                "stars": 3310,
+                "stars": 3317,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -396,7 +396,7 @@
                 "open_issues": 10,
                 "owner": "aipoch",
                 "repo": "medical-research-skills",
-                "stars": 1982,
+                "stars": 1986,
                 "topics": [
                   "ai",
                   "bioinformatics",
@@ -448,7 +448,7 @@
                 "id": 1160505943,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T06:56:59Z",
+                "last_commit": "2026-10-22T08:47:55Z",
                 "open_issues": 6,
                 "owner": "jaechang-hits",
                 "repo": "SciAgent-Skills",
@@ -507,7 +507,7 @@
                 "open_issues": 28,
                 "owner": "Paper2Poster",
                 "repo": "Paper2Poster",
-                "stars": 4003,
+                "stars": 4004,
                 "topics": [
                   "agent",
                   "multi-agent-systems",
@@ -570,7 +570,7 @@
                 "open_issues": 18,
                 "owner": "icip-cas",
                 "repo": "PPTAgent",
-                "stars": 5138,
+                "stars": 5145,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -738,7 +738,7 @@
                 "open_issues": 4,
                 "owner": "showlab",
                 "repo": "Paper2Video",
-                "stars": 2386,
+                "stars": 2387,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -823,7 +823,7 @@
                 "open_issues": 1,
                 "owner": "dwzhu-pku",
                 "repo": "PaperBanana",
-                "stars": 7388,
+                "stars": 7402,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -902,11 +902,11 @@
                 "id": 1237164513,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T23:39:02Z",
+                "last_commit": "2026-10-22T10:43:03Z",
                 "open_issues": 37,
                 "owner": "microsoft",
                 "repo": "flint-chart",
-                "stars": 4399,
+                "stars": 4417,
                 "topics": [
                   "ai-agents",
                   "charting-library",
@@ -1000,7 +1000,7 @@
                 "open_issues": 17,
                 "owner": "going-doer",
                 "repo": "Paper2Code",
-                "stars": 4996,
+                "stars": 4997,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -1021,7 +1021,7 @@
                 "open_issues": 4,
                 "owner": "jmiao24",
                 "repo": "Paper2Agent",
-                "stars": 3862,
+                "stars": 3867,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -1052,10 +1052,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 251,
+                "open_issues": 252,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 91494,
+                "stars": 91543,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -1086,11 +1086,11 @@
                 "id": 765083837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T08:41:22Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-23T03:53:55Z",
+                "open_issues": 15,
                 "owner": "opendatalab",
                 "repo": "MinerU",
-                "stars": 82238,
+                "stars": 82324,
                 "topics": [
                   "ai4science",
                   "document-analysis",
@@ -1124,11 +1124,11 @@
                 "id": 712111618,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T14:49:01Z",
+                "last_commit": "2026-10-22T10:45:42Z",
                 "open_issues": 494,
                 "owner": "datalab-to",
                 "repo": "marker",
-                "stars": 40582,
+                "stars": 40595,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -1145,11 +1145,11 @@
                 "id": 982587624,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T04:21:35Z",
-                "open_issues": 91,
+                "last_commit": "2026-10-23T02:13:35Z",
+                "open_issues": 87,
                 "owner": "opendataloader-project",
                 "repo": "opendataloader-pdf",
-                "stars": 29777,
+                "stars": 29953,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -1191,7 +1191,7 @@
                 "open_issues": 92,
                 "owner": "allenai",
                 "repo": "olmocr",
-                "stars": 19794,
+                "stars": 19796,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -1208,11 +1208,11 @@
                 "id": 541798154,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T04:20:33Z",
+                "last_commit": "2026-10-23T01:07:32Z",
                 "open_issues": 332,
                 "owner": "Unstructured-IO",
                 "repo": "unstructured",
-                "stars": 15587,
+                "stars": 15593,
                 "topics": [
                   "data-pipelines",
                   "deep-learning",
@@ -1250,11 +1250,11 @@
                 "id": 1072539730,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-06-26T10:26:47Z",
+                "last_commit": "2026-10-22T10:18:53Z",
                 "open_issues": 63,
                 "owner": "datalab-to",
                 "repo": "chandra",
-                "stars": 12527,
+                "stars": 12547,
                 "topics": [
                   "ai",
                   "ocr"
@@ -1278,7 +1278,7 @@
                 "open_issues": 142,
                 "owner": "facebookresearch",
                 "repo": "nougat",
-                "stars": 10087,
+                "stars": 10088,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -1299,7 +1299,7 @@
                 "open_issues": 107,
                 "owner": "opendatalab",
                 "repo": "PDF-Extract-Kit",
-                "stars": 10049,
+                "stars": 10054,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -1316,11 +1316,11 @@
                 "id": 5797013,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T20:40:58Z",
-                "open_issues": 314,
+                "last_commit": "2026-10-22T10:56:46Z",
+                "open_issues": 316,
                 "owner": "grobidOrg",
                 "repo": "grobid",
-                "stars": 5188,
+                "stars": 5191,
                 "topics": [
                   "bibliographical-references",
                   "crf",
@@ -1549,7 +1549,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-30T18:07:21Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "stanford-oval",
                 "repo": "storm",
                 "stars": 31681,
@@ -1583,7 +1583,7 @@
                 "open_issues": 155,
                 "owner": "Future-House",
                 "repo": "paper-qa",
-                "stars": 9448,
+                "stars": 9453,
                 "topics": [
                   "ai",
                   "rag",
@@ -1609,7 +1609,7 @@
                 "open_issues": 12,
                 "owner": "AkariAsai",
                 "repo": "OpenScholar",
-                "stars": 1672,
+                "stars": 1673,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -1630,7 +1630,7 @@
                 "open_issues": 2,
                 "owner": "deep-diver",
                 "repo": "paper-reviewer",
-                "stars": 853,
+                "stars": 855,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -1685,7 +1685,7 @@
                 "open_issues": 38,
                 "owner": "Imbad0202",
                 "repo": "academic-research-skills",
-                "stars": 53370,
+                "stars": 53509,
                 "topics": [
                   "academic-pipeline",
                   "academic-writing",
@@ -1715,7 +1715,7 @@
                 "open_issues": 58,
                 "owner": "microsoft",
                 "repo": "SkillOpt",
-                "stars": 18615,
+                "stars": 18637,
                 "topics": [
                   "agent-skills",
                   "self-evolving-agents"
@@ -1736,10 +1736,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T10:08:11Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "Galaxy-Dawn",
                 "repo": "claude-scholar",
-                "stars": 5869,
+                "stars": 5877,
                 "topics": [
                   "academic-research",
                   "ai-agents",
@@ -1769,11 +1769,11 @@
                 "id": 1287804060,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T03:59:30Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-23T04:24:46Z",
+                "open_issues": 44,
                 "owner": "aipoch",
                 "repo": "open-science",
-                "stars": 5333,
+                "stars": 5338,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -1811,11 +1811,11 @@
                 "id": 599781179,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-21T06:03:37Z",
+                "last_commit": "2026-10-22T06:03:46Z",
                 "open_issues": 325,
                 "owner": "jupyterlab",
                 "repo": "jupyter-ai",
-                "stars": 4421,
+                "stars": 4423,
                 "topics": [
                   "acp",
                   "agents",
@@ -1838,11 +1838,11 @@
                 "id": 1288402762,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T16:51:30Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-23T04:18:40Z",
+                "open_issues": 12,
                 "owner": "synthetic-sciences",
                 "repo": "openscience",
-                "stars": 4202,
+                "stars": 4240,
                 "topics": [
                   "agent",
                   "ai",
@@ -1877,11 +1877,11 @@
                 "id": 1288102626,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T02:40:27Z",
+                "last_commit": "2026-10-22T16:26:44Z",
                 "open_issues": 25,
                 "owner": "ai4s-research",
                 "repo": "open-science",
-                "stars": 2002,
+                "stars": 2033,
                 "topics": [
                   "ai-agent",
                   "ai-for-science",
@@ -1923,7 +1923,7 @@
                 "open_issues": 11,
                 "owner": "K-Dense-AI",
                 "repo": "k-dense-byok",
-                "stars": 1388,
+                "stars": 1396,
                 "topics": [
                   "agentic-ai",
                   "ai-agent",
@@ -1955,11 +1955,11 @@
                 "id": 1200800171,
                 "language": "MATLAB",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T13:31:03Z",
+                "last_commit": "2026-10-22T18:29:00Z",
                 "open_issues": 9,
                 "owner": "matlab",
                 "repo": "matlab-agentic-toolkit",
-                "stars": 1195,
+                "stars": 1198,
                 "topics": [
                   "agent-skills",
                   "claude-code",
@@ -2007,11 +2007,11 @@
                 "id": 1285857639,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-22T03:18:58Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-22T08:53:01Z",
+                "open_issues": 5,
                 "owner": "xuzhougeng",
                 "repo": "wisp-science",
-                "stars": 1050,
+                "stars": 1052,
                 "topics": [
                   "ai-agent",
                   "ai-for-science",
@@ -2044,7 +2044,7 @@
                 "open_issues": 1,
                 "owner": "LeonChaoX",
                 "repo": "qinyan-academic-skills",
-                "stars": 969,
+                "stars": 974,
                 "topics": [
                   "academic",
                   "ai-assistant",
@@ -2072,7 +2072,7 @@
                 "id": 958852531,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-22T04:25:39Z",
+                "last_commit": "2026-10-22T23:52:47Z",
                 "open_issues": 1,
                 "owner": "genomoncology",
                 "repo": "biomcp",
@@ -2105,11 +2105,11 @@
                 "id": 1290445936,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T12:20:02Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-22T17:04:43Z",
+                "open_issues": 7,
                 "owner": "PKU-YuanGroup",
                 "repo": "OpenAI4S",
-                "stars": 638,
+                "stars": 642,
                 "topics": [
                   "agent",
                   "ai4science",
@@ -2191,7 +2191,7 @@
                 "open_issues": 5,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 488,
+                "stars": 495,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -2239,7 +2239,7 @@
                 "open_issues": 45,
                 "owner": "plmbr",
                 "repo": "notebook-intelligence",
-                "stars": 347,
+                "stars": 348,
                 "topics": [
                   "agent-plugins",
                   "agent-skills",
@@ -2310,7 +2310,7 @@
                 "open_issues": 248,
                 "owner": "MuiseDestiny",
                 "repo": "zotero-gpt",
-                "stars": 7490,
+                "stars": 7493,
                 "topics": [
                   "gpt",
                   "zotero",
@@ -2331,11 +2331,11 @@
                 "id": 1144694071,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-18T21:14:00Z",
-                "open_issues": 205,
+                "last_commit": "2026-10-22T21:43:52Z",
+                "open_issues": 204,
                 "owner": "yilewang",
                 "repo": "llm-for-zotero",
-                "stars": 3375,
+                "stars": 3383,
                 "topics": [
                   "academic-paper",
                   "codex",
@@ -2357,36 +2357,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 4, Claude Fable 5.1, Claude Opus 5.5, DeepSeek V4.1, Grok, OpenRouter, Kimi k3, GLM 5.3, SiliconFlow, GPT-oss, Gemma 4, Qwen 3.8",
+                "description": "Professional AI research tool for Zotero: chat with PDFs, whole-library search, Literature Radar, AutoPilot. 30+ LLMs or local models; built-in MCP server.",
                 "homepage": "https://www.papersgpt.com",
                 "id": 892394936,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-21T09:27:55Z",
+                "last_commit": "2026-10-22T15:22:21Z",
                 "open_issues": 76,
                 "owner": "papersgpt",
                 "repo": "papersgpt-for-zotero",
-                "stars": 2677,
+                "stars": 2678,
                 "topics": [
                   "ai",
                   "chat",
                   "chatgpt",
                   "claude",
-                  "claude-fable-5",
-                  "deepresearch",
+                  "deep-research",
                   "deepseek",
-                  "deepseek-v4-pro",
                   "gemini",
-                  "gemma4",
-                  "glm-5-3",
-                  "gpt-6",
-                  "gpt-oss",
-                  "kimi-k3",
+                  "gemma",
+                  "glm",
+                  "kimi",
+                  "literature-review",
                   "llama",
+                  "local-llm",
                   "mcp",
+                  "mcp-server",
                   "mistral",
                   "openrouter",
                   "pdf",
+                  "research",
                   "zotero"
                 ]
               },
@@ -2415,7 +2415,7 @@
                 "open_issues": 1,
                 "owner": "WUBING2023",
                 "repo": "PaperSpine",
-                "stars": 6034,
+                "stars": 6043,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -2436,7 +2436,7 @@
                 "open_issues": 497,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5517,
+                "stars": 5516,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -2508,7 +2508,7 @@
                 "open_issues": 3,
                 "owner": "labarba",
                 "repo": "sciwrite",
-                "stars": 861,
+                "stars": 862,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -2542,7 +2542,7 @@
                 "open_issues": 14,
                 "owner": "InternScience",
                 "repo": "GraphGen",
-                "stars": 1234,
+                "stars": 1235,
                 "topics": [
                   "ai4science",
                   "data-generation",
@@ -2580,7 +2580,7 @@
                 "open_issues": 4,
                 "owner": "AuvaLab",
                 "repo": "itext2kg",
-                "stars": 969,
+                "stars": 970,
                 "topics": [
                   "knowledge-graph",
                   "llms",
@@ -2605,7 +2605,7 @@
                 "open_issues": 3,
                 "owner": "zjukg",
                 "repo": "KoPA",
-                "stars": 213,
+                "stars": 214,
                 "topics": [
                   "instruction-tuning",
                   "knowledge-graph",
@@ -2630,11 +2630,11 @@
                 "id": 1215961599,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T03:11:30Z",
+                "last_commit": "2026-10-22T10:56:33Z",
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "SciAtlas",
-                "stars": 162,
+                "stars": 163,
                 "topics": [
                   "agent",
                   "ai-agent",
@@ -2683,7 +2683,7 @@
                 "open_issues": 6,
                 "owner": "RManLuo",
                 "repo": "Awesome-LLM-KG",
-                "stars": 2617,
+                "stars": 2618,
                 "topics": [
                   "awsome",
                   "chatgpt",
@@ -2727,7 +2727,7 @@
                 "open_issues": 195,
                 "owner": "karpathy",
                 "repo": "autoresearch",
-                "stars": 98334,
+                "stars": 98417,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -2744,11 +2744,11 @@
                 "id": 1177608268,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T07:05:04Z",
+                "last_commit": "2026-10-22T06:23:14Z",
                 "open_issues": 74,
                 "owner": "wanshuiyin",
                 "repo": "Auto-claude-code-research-in-sleep",
-                "stars": 17860,
+                "stars": 17934,
                 "topics": [
                   "ai-research",
                   "ai-tools",
@@ -2790,7 +2790,7 @@
                 "open_issues": 253,
                 "owner": "microsoft",
                 "repo": "RD-Agent",
-                "stars": 15016,
+                "stars": 15025,
                 "topics": [
                   "agent",
                   "ai",
@@ -2820,7 +2820,7 @@
                 "open_issues": 123,
                 "owner": "SakanaAI",
                 "repo": "AI-Scientist",
-                "stars": 14769,
+                "stars": 14775,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -2841,7 +2841,7 @@
                 "open_issues": 20,
                 "owner": "aiming-lab",
                 "repo": "AutoResearchClaw",
-                "stars": 14733,
+                "stars": 14744,
                 "topics": [
                   "autonomous-research",
                   "citation-verification",
@@ -2868,11 +2868,11 @@
                 "id": 984096689,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T01:27:01Z",
+                "last_commit": "2026-10-23T04:23:21Z",
                 "open_issues": 97,
                 "owner": "algorithmicsuperintelligence",
                 "repo": "openevolve",
-                "stars": 7618,
+                "stars": 7631,
                 "topics": [
                   "alpha-evolve",
                   "alphacode",
@@ -2913,7 +2913,7 @@
                 "open_issues": 81,
                 "owner": "SakanaAI",
                 "repo": "AI-Scientist-v2",
-                "stars": 7379,
+                "stars": 7390,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -2934,7 +2934,7 @@
                 "open_issues": 65,
                 "owner": "HKUDS",
                 "repo": "AI-Researcher",
-                "stars": 5829,
+                "stars": 5834,
                 "topics": [
                   "ai-researcher"
                 ]
@@ -2953,8 +2953,8 @@
                 "id": 1142406715,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T12:34:31Z",
-                "open_issues": 48,
+                "last_commit": "2026-10-22T17:26:51Z",
+                "open_issues": 52,
                 "owner": "EvoScientist",
                 "repo": "EvoScientist",
                 "stars": 4906,
@@ -2983,7 +2983,7 @@
                 "open_issues": 16,
                 "owner": "ResearAI",
                 "repo": "DeepScientist",
-                "stars": 3386,
+                "stars": 3389,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -3004,7 +3004,7 @@
                 "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "ResearchStudio",
-                "stars": 3332,
+                "stars": 3343,
                 "topics": [
                   "blog-generation",
                   "idea-generation",
@@ -3033,7 +3033,7 @@
                 "open_issues": 147,
                 "owner": "OpenNSWM-Lab",
                 "repo": "FAROS",
-                "stars": 3033,
+                "stars": 3034,
                 "topics": [
                   "academic-research",
                   "academic-writing",
@@ -3096,7 +3096,7 @@
                 "open_issues": 30,
                 "owner": "jennyzzt",
                 "repo": "dgm",
-                "stars": 2442,
+                "stars": 2446,
                 "topics": []
               },
               "first_seen": "2026-09-21T04:41:50.606Z"
@@ -3113,8 +3113,8 @@
                 "id": 942272855,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T02:51:35Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-22T13:11:05Z",
+                "open_issues": 13,
                 "owner": "mims-harvard",
                 "repo": "ToolUniverse",
                 "stars": 1754,
@@ -3155,7 +3155,7 @@
                 "open_issues": 3,
                 "owner": "WecoAI",
                 "repo": "aideml",
-                "stars": 1589,
+                "stars": 1591,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -3187,7 +3187,7 @@
                 "open_issues": 8,
                 "owner": "InternScience",
                 "repo": "InternAgent",
-                "stars": 1456,
+                "stars": 1457,
                 "topics": [
                   "agentic-framework",
                   "ai-scientists",
@@ -3294,7 +3294,7 @@
                 "open_issues": 2,
                 "owner": "RUC-NLPIR",
                 "repo": "Arbor",
-                "stars": 1120,
+                "stars": 1125,
                 "topics": [
                   "agents",
                   "autonomous-agents",
@@ -3319,7 +3319,7 @@
                 "open_issues": 24,
                 "owner": "Human-Agent-Society",
                 "repo": "CORAL",
-                "stars": 1091,
+                "stars": 1095,
                 "topics": [
                   "agent-framework",
                   "agent-orchestration",
@@ -3418,7 +3418,7 @@
                 "open_issues": 12,
                 "owner": "mims-harvard",
                 "repo": "AutoScientists",
-                "stars": 779,
+                "stars": 780,
                 "topics": [
                   "agents",
                   "ai-for-science",
@@ -3494,7 +3494,7 @@
                 "open_issues": 6,
                 "owner": "Future-House",
                 "repo": "robin",
-                "stars": 741,
+                "stars": 743,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -3563,7 +3563,7 @@
                 "open_issues": 29,
                 "owner": "skydiscover-ai",
                 "repo": "skydiscover",
-                "stars": 723,
+                "stars": 724,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -3605,7 +3605,7 @@
                 "open_issues": 11,
                 "owner": "Denario-AI",
                 "repo": "Denario",
-                "stars": 614,
+                "stars": 615,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -3644,7 +3644,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-20T21:00:08Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "aristoteleo",
                 "repo": "PantheonOS",
                 "stars": 490,
@@ -3762,7 +3762,7 @@
                 "open_issues": 6,
                 "owner": "snap-stanford",
                 "repo": "POPPER",
-                "stars": 299,
+                "stars": 300,
                 "topics": [
                   "agent",
                   "ai-for-science",
@@ -3814,7 +3814,7 @@
                 "open_issues": 0,
                 "owner": "ai4s-research",
                 "repo": "ai4s-skills",
-                "stars": 248,
+                "stars": 250,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -3850,7 +3850,7 @@
                 "open_issues": 3,
                 "owner": "sjtu-sai-agents",
                 "repo": "EvoMaster",
-                "stars": 231,
+                "stars": 232,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -3871,7 +3871,7 @@
                 "open_issues": 1,
                 "owner": "UniPat-AI",
                 "repo": "UniScientist",
-                "stars": 173,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -3917,11 +3917,11 @@
                 "id": 1218603313,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T03:25:12Z",
+                "last_commit": "2026-10-22T11:09:09Z",
                 "open_issues": 1,
                 "owner": "smileformylove",
                 "repo": "XScientist",
-                "stars": 125,
+                "stars": 126,
                 "topics": [
                   "ai-for-science",
                   "ai-scientist",
@@ -4028,7 +4028,7 @@
                 "open_issues": 13,
                 "owner": "openai",
                 "repo": "mle-bench",
-                "stars": 1783,
+                "stars": 1782,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -4049,7 +4049,7 @@
                 "open_issues": 0,
                 "owner": "AutoTrustAI",
                 "repo": "PaperGuru-Benchmark",
-                "stars": 1327,
+                "stars": 1328,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -4087,11 +4087,11 @@
                 "id": 1141514363,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T17:07:53Z",
-                "open_issues": 570,
+                "last_commit": "2026-10-22T16:53:11Z",
+                "open_issues": 572,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench-science",
-                "stars": 749,
+                "stars": 753,
                 "topics": [
                   "agentic-ai",
                   "ai-for-science",
@@ -4112,11 +4112,11 @@
                 "id": 1185162676,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-21T10:47:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-23T03:40:22Z",
+                "open_issues": 2,
                 "owner": "InternScience",
                 "repo": "ResearchClawBench",
-                "stars": 272,
+                "stars": 271,
                 "topics": [
                   "agent",
                   "ai",
@@ -4235,7 +4235,7 @@
                 "open_issues": 7,
                 "owner": "OS-Copilot",
                 "repo": "ScienceBoard",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "agents",
                   "computer-use-agent",
@@ -4261,7 +4261,7 @@
                 "open_issues": 4,
                 "owner": "facebookresearch",
                 "repo": "airs-bench",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -4364,7 +4364,7 @@
                 "open_issues": 131,
                 "owner": "snap-stanford",
                 "repo": "Biomni",
-                "stars": 4001,
+                "stars": 4003,
                 "topics": [
                   "agent",
                   "ai",
@@ -4435,11 +4435,11 @@
                 "id": 1166871123,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T14:22:31Z",
-                "open_issues": 59,
+                "last_commit": "2026-10-22T08:48:02Z",
+                "open_issues": 60,
                 "owner": "ClawBio",
                 "repo": "ClawBio",
-                "stars": 1163,
+                "stars": 1165,
                 "topics": [
                   "ai-agents",
                   "bioinformatics",
@@ -4527,7 +4527,7 @@
                 "open_issues": 2,
                 "owner": "math-ai-org",
                 "repo": "mathcode",
-                "stars": 747,
+                "stars": 748,
                 "topics": [
                   "agent",
                   "ai",
@@ -4697,7 +4697,7 @@
                 "open_issues": 3,
                 "owner": "ArcInstitute",
                 "repo": "SRAgent",
-                "stars": 201,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -4949,7 +4949,7 @@
                 "open_issues": 23,
                 "owner": "sinaptik-ai",
                 "repo": "pandas-ai",
-                "stars": 23896,
+                "stars": 23899,
                 "topics": [
                   "ai",
                   "csv",
@@ -4981,10 +4981,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-01-13T17:39:04Z",
-                "open_issues": 136,
+                "open_issues": 137,
                 "owner": "cleanlab",
                 "repo": "cleanlab",
-                "stars": 11714,
+                "stars": 11715,
                 "topics": [
                   "active-learning",
                   "annotation",
@@ -5026,7 +5026,7 @@
                 "open_issues": 19,
                 "owner": "snorkel-team",
                 "repo": "snorkel",
-                "stars": 6025,
+                "stars": 6026,
                 "topics": [
                   "ai",
                   "data-augmentation",
@@ -5071,7 +5071,7 @@
                 "open_issues": 107,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6491,
+                "stars": 6490,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -5092,7 +5092,7 @@
                 "open_issues": 115,
                 "owner": "SciML",
                 "repo": "DifferentialEquations.jl",
-                "stars": 3169,
+                "stars": 3170,
                 "topics": [
                   "dae",
                   "dde",
@@ -5131,10 +5131,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-06T08:35:31Z",
-                "open_issues": 260,
+                "open_issues": 261,
                 "owner": "patrick-kidger",
                 "repo": "diffrax",
-                "stars": 2116,
+                "stars": 2117,
                 "topics": [
                   "deep-learning",
                   "differential-equations",
@@ -5164,7 +5164,7 @@
                 "open_issues": 40,
                 "owner": "DiffEqML",
                 "repo": "torchdyn",
-                "stars": 1581,
+                "stars": 1582,
                 "topics": [
                   "control-theory",
                   "deep-equilibrium-models",
@@ -5289,7 +5289,7 @@
                 "open_issues": 51,
                 "owner": "maziarraissi",
                 "repo": "PINNs",
-                "stars": 6217,
+                "stars": 6219,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -5341,11 +5341,11 @@
                 "id": 593782352,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T02:26:48Z",
-                "open_issues": 128,
+                "last_commit": "2026-10-23T04:00:12Z",
+                "open_issues": 117,
                 "owner": "NVIDIA",
                 "repo": "physicsnemo",
-                "stars": 3375,
+                "stars": 3381,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -5369,8 +5369,8 @@
                 "id": 304116981,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T18:40:42Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-22T16:14:02Z",
+                "open_issues": 18,
                 "owner": "pnnl",
                 "repo": "neuromancer",
                 "stars": 1383,
@@ -5492,7 +5492,7 @@
                 "open_issues": 266,
                 "owner": "KindXiaoming",
                 "repo": "pykan",
-                "stars": 16335,
+                "stars": 16336,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -5509,11 +5509,11 @@
                 "id": 295391759,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T19:24:04Z",
-                "open_issues": 140,
+                "last_commit": "2026-10-22T19:23:53Z",
+                "open_issues": 141,
                 "owner": "astroautomata",
                 "repo": "PySR",
-                "stars": 4087,
+                "stars": 4095,
                 "topics": [
                   "algorithm",
                   "automl",
@@ -5550,7 +5550,7 @@
                 "open_issues": 57,
                 "owner": "neuraloperator",
                 "repo": "neuraloperator",
-                "stars": 3967,
+                "stars": 3970,
                 "topics": [
                   "fno",
                   "fourier-neural-operator",
@@ -5580,7 +5580,7 @@
                 "open_issues": 31,
                 "owner": "tum-pbs",
                 "repo": "PhiFlow",
-                "stars": 1950,
+                "stars": 1949,
                 "topics": [
                   "deep-learning",
                   "differentiable-simulations",
@@ -5666,7 +5666,7 @@
                 "open_issues": 28,
                 "owner": "lululxvi",
                 "repo": "deeponet",
-                "stars": 854,
+                "stars": 853,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -5781,7 +5781,7 @@
                 "open_issues": 2,
                 "owner": "camlab-ethz",
                 "repo": "poseidon",
-                "stars": 199,
+                "stars": 198,
                 "topics": [
                   "foundation-models",
                   "operators",
@@ -5872,8 +5872,8 @@
                 "id": 239769118,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T13:49:05Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-22T14:31:23Z",
+                "open_issues": 60,
                 "owner": "sbi-dev",
                 "repo": "sbi",
                 "stars": 876,
@@ -5917,7 +5917,7 @@
                 "open_issues": 65,
                 "owner": "HKUDS",
                 "repo": "AI-Researcher",
-                "stars": 5829,
+                "stars": 5834,
                 "topics": [
                   "ai-researcher"
                 ]
@@ -5986,7 +5986,7 @@
                     "open_issues": 309,
                     "owner": "google-deepmind",
                     "repo": "alphafold",
-                    "stars": 14902,
+                    "stars": 14905,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6003,11 +6003,11 @@
                     "id": 886637886,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T16:40:29Z",
-                    "open_issues": 22,
+                    "last_commit": "2026-10-23T00:54:46Z",
+                    "open_issues": 24,
                     "owner": "google-deepmind",
                     "repo": "alphafold3",
-                    "stars": 8667,
+                    "stars": 8670,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6025,10 +6025,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-20T19:01:34Z",
-                    "open_issues": 1256,
+                    "open_issues": 1258,
                     "owner": "deepchem",
                     "repo": "deepchem",
-                    "stars": 7075,
+                    "stars": 7080,
                     "topics": [
                       "biology",
                       "deep-learning",
@@ -6056,7 +6056,7 @@
                     "open_issues": 134,
                     "owner": "jwohlwend",
                     "repo": "boltz",
-                    "stars": 4262,
+                    "stars": 4264,
                     "topics": [
                       "binding-prediction",
                       "drug-discovery",
@@ -6081,7 +6081,7 @@
                     "open_issues": 134,
                     "owner": "jwohlwend",
                     "repo": "boltz",
-                    "stars": 4262,
+                    "stars": 4264,
                     "topics": [
                       "binding-prediction",
                       "drug-discovery",
@@ -6123,11 +6123,11 @@
                     "id": 10009991,
                     "language": "HTML",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-21T15:24:36Z",
+                    "last_commit": "2026-10-23T03:20:19Z",
                     "open_issues": 95,
                     "owner": "rdkit",
                     "repo": "rdkit",
-                    "stars": 3631,
+                    "stars": 3634,
                     "topics": [
                       "c-plus-plus",
                       "cheminformatics",
@@ -6153,7 +6153,7 @@
                     "open_issues": 246,
                     "owner": "aqlaboratory",
                     "repo": "openfold",
-                    "stars": 3440,
+                    "stars": 3441,
                     "topics": [
                       "alphafold2",
                       "protein-structure",
@@ -6178,7 +6178,7 @@
                     "open_issues": 245,
                     "owner": "RosettaCommons",
                     "repo": "RFdiffusion",
-                    "stars": 3101,
+                    "stars": 3105,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6199,7 +6199,7 @@
                     "open_issues": 80,
                     "owner": "Biohub",
                     "repo": "esm",
-                    "stars": 2995,
+                    "stars": 2996,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6220,7 +6220,7 @@
                     "open_issues": 80,
                     "owner": "Biohub",
                     "repo": "esm",
-                    "stars": 2995,
+                    "stars": 2996,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6320,7 +6320,7 @@
                     "open_issues": 130,
                     "owner": "bytedance",
                     "repo": "Protenix",
-                    "stars": 2084,
+                    "stars": 2086,
                     "topics": [
                       "ai4science",
                       "research"
@@ -6344,7 +6344,7 @@
                     "open_issues": 99,
                     "owner": "chaidiscovery",
                     "repo": "chai-lab",
-                    "stars": 2003,
+                    "stars": 2004,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6365,7 +6365,7 @@
                     "open_issues": 99,
                     "owner": "chaidiscovery",
                     "repo": "chai-lab",
-                    "stars": 2003,
+                    "stars": 2004,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6386,7 +6386,7 @@
                     "open_issues": 89,
                     "owner": "dauparas",
                     "repo": "ProteinMPNN",
-                    "stars": 1884,
+                    "stars": 1886,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6433,7 +6433,7 @@
                     "open_issues": 132,
                     "owner": "gcorso",
                     "repo": "DiffDock",
-                    "stars": 1584,
+                    "stars": 1586,
                     "topics": [
                       "binding",
                       "computational-biology",
@@ -6510,7 +6510,7 @@
                     "open_issues": 19,
                     "owner": "martinpacesa",
                     "repo": "BindCraft",
-                    "stars": 1256,
+                    "stars": 1258,
                     "topics": [
                       "alphafold2",
                       "binder",
@@ -6563,7 +6563,7 @@
                     "open_issues": 10,
                     "owner": "ScorpioLea",
                     "repo": "AiCE",
-                    "stars": 1148,
+                    "stars": 1149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6584,7 +6584,7 @@
                     "open_issues": 76,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleHelix",
-                    "stars": 1123,
+                    "stars": 1122,
                     "topics": [
                       "biocomputing",
                       "ddi",
@@ -6621,7 +6621,7 @@
                     "open_issues": 39,
                     "owner": "apple-aiml-research",
                     "repo": "ml-simplefold",
-                    "stars": 1000,
+                    "stars": 1001,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6642,7 +6642,7 @@
                     "open_issues": 25,
                     "owner": "gnina",
                     "repo": "gnina",
-                    "stars": 996,
+                    "stars": 997,
                     "topics": [
                       "cheminformatics",
                       "computational-chemistry",
@@ -6686,11 +6686,11 @@
                     "id": 1080448022,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T09:53:41Z",
-                    "open_issues": 72,
+                    "last_commit": "2026-10-22T15:09:44Z",
+                    "open_issues": 73,
                     "owner": "aqlaboratory",
                     "repo": "openfold-3",
-                    "stars": 900,
+                    "stars": 904,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6711,7 +6711,7 @@
                     "open_issues": 7,
                     "owner": "microsoft",
                     "repo": "bioemu",
-                    "stars": 899,
+                    "stars": 898,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6732,7 +6732,7 @@
                     "open_issues": 28,
                     "owner": "generatebio",
                     "repo": "chroma",
-                    "stars": 835,
+                    "stars": 836,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6795,7 +6795,7 @@
                     "open_issues": 14,
                     "owner": "microsoft",
                     "repo": "evodiff",
-                    "stars": 688,
+                    "stars": 689,
                     "topics": [
                       "discrete-diffusion",
                       "generative-model",
@@ -6821,7 +6821,7 @@
                     "open_issues": 49,
                     "owner": "dauparas",
                     "repo": "LigandMPNN",
-                    "stars": 645,
+                    "stars": 646,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6876,7 +6876,7 @@
                     "open_issues": 32,
                     "owner": "bjing2016",
                     "repo": "alphaflow",
-                    "stars": 547,
+                    "stars": 548,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6893,11 +6893,11 @@
                     "id": 920371930,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-23T22:17:32Z",
-                    "open_issues": 89,
+                    "last_commit": "2026-10-22T20:19:40Z",
+                    "open_issues": 90,
                     "owner": "RosettaCommons",
                     "repo": "RFantibody",
-                    "stars": 543,
+                    "stars": 544,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -6989,11 +6989,11 @@
                     "id": 1177324743,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-21T19:28:01Z",
-                    "open_issues": 30,
+                    "last_commit": "2026-10-22T23:16:37Z",
+                    "open_issues": 31,
                     "owner": "NVIDIA-BioNeMo",
                     "repo": "Proteina-Complexa",
-                    "stars": 460,
+                    "stars": 462,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -7126,7 +7126,7 @@
                     "open_issues": 13,
                     "owner": "guanjq",
                     "repo": "targetdiff",
-                    "stars": 349,
+                    "stars": 350,
                     "topics": [
                       "ai-for-science",
                       "diffusion-models",
@@ -7197,7 +7197,7 @@
                     "open_issues": 2,
                     "owner": "KosinskiLab",
                     "repo": "AlphaPulldown",
-                    "stars": 326,
+                    "stars": 327,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -7341,7 +7341,7 @@
                     "open_issues": 7,
                     "owner": "NVIDIA-BioNeMo",
                     "repo": "proteina",
-                    "stars": 280,
+                    "stars": 282,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -7358,8 +7358,8 @@
                     "id": 1045828828,
                     "language": "Cuda",
                     "license": null,
-                    "last_commit": "2026-10-20T20:57:07Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-10-23T00:12:54Z",
+                    "open_issues": 8,
                     "owner": "NVIDIA-BioNeMo",
                     "repo": "nvMolKit",
                     "stars": 280,
@@ -7428,7 +7428,7 @@
                     "open_issues": 13,
                     "owner": "TencentAI4S",
                     "repo": "IgGM",
-                    "stars": 235,
+                    "stars": 237,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -7449,7 +7449,7 @@
                     "open_issues": 0,
                     "owner": "IntelliGen-AI",
                     "repo": "IntelliFold",
-                    "stars": 232,
+                    "stars": 233,
                     "topics": [
                       "ai4science",
                       "biomolecular-structures",
@@ -7520,7 +7520,7 @@
                     "open_issues": 8,
                     "owner": "aqlaboratory",
                     "repo": "genie2",
-                    "stars": 195,
+                    "stars": 196,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -7541,7 +7541,7 @@
                     "open_issues": 17,
                     "owner": "BioSystemsUM",
                     "repo": "DeepMol",
-                    "stars": 182,
+                    "stars": 183,
                     "topics": [
                       "chemoinformatics",
                       "deep-learning",
@@ -7566,7 +7566,7 @@
                     "open_issues": 45,
                     "owner": "3dem",
                     "repo": "model-angelo",
-                    "stars": 178,
+                    "stars": 179,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -7612,7 +7612,7 @@
                     "open_issues": 4,
                     "owner": "patrickbryant1",
                     "repo": "RareFold",
-                    "stars": 148,
+                    "stars": 149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -7633,7 +7633,7 @@
                     "open_issues": 0,
                     "owner": "blazerye",
                     "repo": "DrugAssist",
-                    "stars": 148,
+                    "stars": 149,
                     "topics": [
                       "ai-for-science",
                       "drug-discovery",
@@ -7704,7 +7704,7 @@
                     "open_issues": 2,
                     "owner": "Profluent-AI",
                     "repo": "progen3",
-                    "stars": 115,
+                    "stars": 114,
                     "topics": []
                   },
                   "first_seen": "2026-09-13T04:35:28.573Z"
@@ -7817,7 +7817,7 @@
                     "open_issues": 3,
                     "owner": "Shenggan",
                     "repo": "xfold",
-                    "stars": 58,
+                    "stars": 59,
                     "topics": [
                       "alphafold3",
                       "gpu-acceleration",
@@ -7882,9 +7882,9 @@
                     "license": null,
                     "last_commit": "2026-05-02T02:50:54Z",
                     "open_issues": 1,
-                    "owner": "ispc-lab",
+                    "owner": "sii-pilab",
                     "repo": "SeFMol",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -7912,7 +7912,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15243,
+                    "stars": 15245,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -7933,7 +7933,7 @@
                     "open_issues": 56,
                     "owner": "ArcInstitute",
                     "repo": "evo2",
-                    "stars": 4277,
+                    "stars": 4278,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -7988,7 +7988,7 @@
                     "open_issues": 9,
                     "owner": "google-deepmind",
                     "repo": "alphagenome",
-                    "stars": 2194,
+                    "stars": 2195,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -8005,11 +8005,11 @@
                     "id": 102567256,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-21T12:18:09Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-10-22T13:52:56Z",
+                    "open_issues": 29,
                     "owner": "scverse",
                     "repo": "scvi-tools",
-                    "stars": 1715,
+                    "stars": 1716,
                     "topics": [
                       "cite-seq",
                       "deep-generative-model",
@@ -8041,7 +8041,7 @@
                     "open_issues": 175,
                     "owner": "bowang-lab",
                     "repo": "scGPT",
-                    "stars": 1656,
+                    "stars": 1657,
                     "topics": [
                       "foundation-model",
                       "gpt",
@@ -8062,11 +8062,11 @@
                     "id": 350399100,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-13T10:23:18Z",
+                    "last_commit": "2026-10-22T22:49:37Z",
                     "open_issues": 11,
                     "owner": "omicverse",
                     "repo": "omicverse",
-                    "stars": 1354,
+                    "stars": 1385,
                     "topics": [
                       "bioinformatics",
                       "bulk-rna-seq",
@@ -8092,7 +8092,7 @@
                     "open_issues": 5,
                     "owner": "Profluent-AI",
                     "repo": "OpenCRISPR",
-                    "stars": 1209,
+                    "stars": 1210,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -8160,7 +8160,7 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-03T16:00:49Z",
-                    "open_issues": 93,
+                    "open_issues": 94,
                     "owner": "nanoporetech",
                     "repo": "dorado",
                     "stars": 881,
@@ -8273,7 +8273,7 @@
                     "open_issues": 62,
                     "owner": "ArcInstitute",
                     "repo": "state",
-                    "stars": 733,
+                    "stars": 735,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -8386,7 +8386,7 @@
                     "open_issues": 48,
                     "owner": "Teichlab",
                     "repo": "celltypist",
-                    "stars": 514,
+                    "stars": 515,
                     "topics": [
                       "cell-type-classification",
                       "label-transfer",
@@ -8541,7 +8541,7 @@
                     "open_issues": 18,
                     "owner": "ml4bio",
                     "repo": "RNA-FM",
-                    "stars": 393,
+                    "stars": 394,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -8558,8 +8558,8 @@
                     "id": 462508804,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-10-20T09:56:03Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-10-23T00:05:37Z",
+                    "open_issues": 17,
                     "owner": "songlab-cal",
                     "repo": "gpn",
                     "stars": 386,
@@ -8690,6 +8690,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "VAMB (Nature Biotechnology 2021)",
+                  "description": "Deep learning tool for metagenomic binning using a variational autoencoder over co-abundance and tetranucleotide k-mer composition to reconstruct non-redundant microbial genome bins (MAGs) directly from metagenomes without reference databases, generating higher-quality bins than composition- or abundance-only methods at scale; underpins large-scale microbiome catalogs including the human gut Unified Human Gastrointestinal Genome collection (UHGG) and remains actively maintained (Rasmussen Lab, Technical University of Denmark, 335+ stars, MIT License)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Variational autoencoder for metagenomic binning",
+                    "homepage": null,
+                    "id": 132661416,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-04-27T11:08:33Z",
+                    "open_issues": 56,
+                    "owner": "RasmussenLab",
+                    "repo": "vamb",
+                    "stars": 335,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-23T04:32:07.345Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "GenePT",
                   "description": "Generative pre-training for genomics",
                   "children": [],
@@ -8725,7 +8746,7 @@
                     "open_issues": 0,
                     "owner": "chaitjo",
                     "repo": "geometric-rna-design",
-                    "stars": 320,
+                    "stars": 321,
                     "topics": [
                       "biomolecule-design",
                       "geometric-deep-learning",
@@ -8775,8 +8796,8 @@
                     "id": 515039720,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T00:38:15Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-10-22T21:14:02Z",
+                    "open_issues": 12,
                     "owner": "lazear",
                     "repo": "sage",
                     "stars": 317,
@@ -8846,7 +8867,7 @@
                     "open_issues": 8,
                     "owner": "helicalAI",
                     "repo": "helical",
-                    "stars": 234,
+                    "stars": 235,
                     "topics": [
                       "artificial-intelligence",
                       "bioinformatics",
@@ -8874,6 +8895,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Carbon (Hugging Face, 2026)",
+                  "description": "Family of causal genomic foundation models trained on 1T tokens (~6T DNA base pairs) from the Carbon Pretraining Corpus, combining eukaryote genes, mRNA transcripts, and prokaryote genomes with a hybrid text/6-mer tokenizer; Carbon-3B matches or beats Evo2-7B on zero-shot DNA evaluations including sequence recovery, variant effect prediction, and perturbations (Apache 2.0, 201+ stars)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The home of Carbon Genomic Foundation Model 🧬",
+                    "homepage": null,
+                    "id": 1234886021,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-06-06T08:54:27Z",
+                    "open_issues": 5,
+                    "owner": "huggingface",
+                    "repo": "carbon",
+                    "stars": 228,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T11:11:20.681Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "CellWhisperer (Nature Biotechnology 2025)",
                   "description": "Multimodal AI bridging transcriptomics data and natural language, enabling intuitive chat-based exploration and analysis of single-cell RNA-seq datasets through conversational interaction without coding; fine-tuned Mistral 7B LLaVA model emulating biologist-bioinformatician discussions (207+ stars, GPL-3.0)",
                   "children": [],
@@ -8889,27 +8931,6 @@
                     "owner": "epigen",
                     "repo": "CellWhisperer",
                     "stars": 223,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T11:11:20.681Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Carbon (Hugging Face, 2026)",
-                  "description": "Family of causal genomic foundation models trained on 1T tokens (~6T DNA base pairs) from the Carbon Pretraining Corpus, combining eukaryote genes, mRNA transcripts, and prokaryote genomes with a hybrid text/6-mer tokenizer; Carbon-3B matches or beats Evo2-7B on zero-shot DNA evaluations including sequence recovery, variant effect prediction, and perturbations (Apache 2.0, 201+ stars)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The home of Carbon Genomic Foundation Model 🧬",
-                    "homepage": null,
-                    "id": 1234886021,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-06-06T08:54:27Z",
-                    "open_issues": 4,
-                    "owner": "huggingface",
-                    "repo": "carbon",
-                    "stars": 222,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -8972,7 +8993,7 @@
                     "open_issues": 1,
                     "owner": "lbcb-sci",
                     "repo": "RiNALMo",
-                    "stars": 179,
+                    "stars": 180,
                     "topics": [
                       "bioinformatics",
                       "biology",
@@ -9150,7 +9171,7 @@
                     "open_issues": 4,
                     "owner": "genbio-ai",
                     "repo": "ModelGenerator",
-                    "stars": 125,
+                    "stars": 126,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -9192,7 +9213,7 @@
                     "open_issues": 1,
                     "owner": "NVIDIA-BioNeMo",
                     "repo": "RNAPro",
-                    "stars": 100,
+                    "stars": 102,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -9213,7 +9234,7 @@
                     "open_issues": 0,
                     "owner": "NVIDIA-BioNeMo",
                     "repo": "CodonFM",
-                    "stars": 100,
+                    "stars": 102,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -9252,10 +9273,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-28T12:48:52Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "AI4Science-WestlakeU",
                     "repo": "scDFM",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": [
                       "distribution-shift",
                       "flow-matching-models",
@@ -9396,11 +9417,11 @@
                     "id": 126897385,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-10-21T16:44:15Z",
-                    "open_issues": 65,
+                    "last_commit": "2026-10-22T15:20:25Z",
+                    "open_issues": 54,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5797,
+                    "stars": 5799,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -9432,7 +9453,7 @@
                     "open_issues": 50,
                     "owner": "facebookresearch",
                     "repo": "tribev2",
-                    "stars": 3315,
+                    "stars": 3317,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -9450,10 +9471,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-20T06:33:40Z",
-                    "open_issues": 57,
+                    "open_issues": 58,
                     "owner": "jeshraghian",
                     "repo": "snntorch",
-                    "stars": 2077,
+                    "stars": 2078,
                     "topics": [
                       "machine-learning",
                       "neural-networks",
@@ -9481,8 +9502,8 @@
                     "id": 1235740,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-21T14:42:12Z",
-                    "open_issues": 276,
+                    "last_commit": "2026-10-22T06:50:56Z",
+                    "open_issues": 281,
                     "owner": "nilearn",
                     "repo": "nilearn",
                     "stars": 1449,
@@ -9512,11 +9533,11 @@
                     "id": 232335424,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-21T19:37:22Z",
+                    "last_commit": "2026-10-22T10:09:11Z",
                     "open_issues": 66,
                     "owner": "braindecode",
                     "repo": "braindecode",
-                    "stars": 1332,
+                    "stars": 1335,
                     "topics": [
                       "deep-learning",
                       "ecog",
@@ -9550,7 +9571,7 @@
                     "open_issues": 11,
                     "owner": "facebookresearch",
                     "repo": "brain2qwerty",
-                    "stars": 1161,
+                    "stars": 1163,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -9593,8 +9614,8 @@
                     "id": 196581117,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T17:11:00Z",
-                    "open_issues": 336,
+                    "last_commit": "2026-10-22T08:39:43Z",
+                    "open_issues": 338,
                     "owner": "SpikeInterface",
                     "repo": "spikeinterface",
                     "stars": 867,
@@ -9671,7 +9692,7 @@
                     "open_issues": 20,
                     "owner": "MouseLand",
                     "repo": "Kilosort",
-                    "stars": 632,
+                    "stars": 633,
                     "topics": [
                       "electrophysiology",
                       "neuroscience",
@@ -9693,7 +9714,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause-Clear",
                     "last_commit": "2026-10-20T17:41:31Z",
-                    "open_issues": 29,
+                    "open_issues": 28,
                     "owner": "talmolab",
                     "repo": "sleap",
                     "stars": 618,
@@ -9721,11 +9742,11 @@
                     "id": 1210472224,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T04:14:18Z",
-                    "open_issues": 73,
+                    "last_commit": "2026-10-22T16:27:18Z",
+                    "open_issues": 72,
                     "owner": "facebookresearch",
                     "repo": "neuroai",
-                    "stars": 330,
+                    "stars": 331,
                     "topics": [
                       "deep-learning",
                       "neuroscience"
@@ -9806,7 +9827,7 @@
                     "open_issues": 32,
                     "owner": "mahmoodlab",
                     "repo": "UNI",
-                    "stars": 793,
+                    "stars": 794,
                     "topics": [
                       "computational-pathology",
                       "digital-pathology",
@@ -9845,7 +9866,7 @@
                     "open_issues": 45,
                     "owner": "mahmoodlab",
                     "repo": "TRIDENT",
-                    "stars": 646,
+                    "stars": 648,
                     "topics": [
                       "deep-learning",
                       "foundation-model",
@@ -9873,7 +9894,7 @@
                     "open_issues": 74,
                     "owner": "prov-gigapath",
                     "repo": "prov-gigapath",
-                    "stars": 641,
+                    "stars": 643,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -10010,7 +10031,7 @@
                     "open_issues": 6,
                     "owner": "mahmoodlab",
                     "repo": "TITAN",
-                    "stars": 375,
+                    "stars": 376,
                     "topics": [
                       "computational-pathology",
                       "histopathology",
@@ -10119,11 +10140,11 @@
                     "id": 181846371,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T15:20:49Z",
+                    "last_commit": "2026-10-22T17:37:36Z",
                     "open_issues": 99,
                     "owner": "MIC-DKFZ",
                     "repo": "nnUNet",
-                    "stars": 8982,
+                    "stars": 8983,
                     "topics": [
                       "segmentation"
                     ]
@@ -10142,11 +10163,11 @@
                     "id": 214485001,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T17:01:28Z",
-                    "open_issues": 519,
+                    "last_commit": "2026-10-22T11:14:52Z",
+                    "open_issues": 523,
                     "owner": "Project-MONAI",
                     "repo": "MONAI",
-                    "stars": 8791,
+                    "stars": 8795,
                     "topics": [
                       "deep-learning",
                       "healthcare-imaging",
@@ -10172,10 +10193,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-21T21:47:04Z",
-                    "open_issues": 548,
+                    "open_issues": 560,
                     "owner": "maziyarpanahi",
                     "repo": "openmed",
-                    "stars": 5699,
+                    "stars": 5700,
                     "topics": [
                       "android",
                       "clinical-nlp",
@@ -10217,7 +10238,7 @@
                     "open_issues": 18,
                     "owner": "bowang-lab",
                     "repo": "MedSAM",
-                    "stars": 4425,
+                    "stars": 4426,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -10234,11 +10255,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-20T11:02:56Z",
+                    "last_commit": "2026-10-22T13:19:50Z",
                     "open_issues": 86,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3076,
+                    "stars": 3077,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -10255,8 +10276,8 @@
                     "id": 144513571,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-22T03:46:12Z",
-                    "open_issues": 1287,
+                    "last_commit": "2026-10-22T16:53:56Z",
+                    "open_issues": 1290,
                     "owner": "napari",
                     "repo": "napari",
                     "stars": 2783,
@@ -10282,10 +10303,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-06-14T13:21:03Z",
-                    "open_issues": 70,
+                    "open_issues": 71,
                     "owner": "MouseLand",
                     "repo": "cellpose",
-                    "stars": 2407,
+                    "stars": 2409,
                     "topics": [
                       "cell-biology",
                       "cell-segmentation",
@@ -10418,7 +10439,7 @@
                     "open_issues": 7,
                     "owner": "bowang-lab",
                     "repo": "MedRAX",
-                    "stars": 1247,
+                    "stars": 1248,
                     "topics": [
                       "agent",
                       "agentic-ai",
@@ -10446,7 +10467,7 @@
                     "id": 635751761,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T16:17:20Z",
+                    "last_commit": "2026-10-22T11:49:45Z",
                     "open_issues": 75,
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
@@ -10586,7 +10607,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-07-02T06:02:50Z",
-                    "open_issues": 6,
+                    "open_issues": 8,
                     "owner": "microsoft",
                     "repo": "MIRA",
                     "stars": 425,
@@ -10717,7 +10738,7 @@
                     "id": 173138251,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T14:11:04Z",
+                    "last_commit": "2026-10-22T13:52:58Z",
                     "open_issues": 1,
                     "owner": "BiaPyX",
                     "repo": "BiaPy",
@@ -10852,8 +10873,8 @@
                     "id": 218790457,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-10-19T19:32:23Z",
-                    "open_issues": 70,
+                    "last_commit": "2026-10-22T14:29:48Z",
+                    "open_issues": 68,
                     "owner": "bioimage-io",
                     "repo": "core-bioimage-io-python",
                     "stars": 40,
@@ -10896,7 +10917,7 @@
                     "open_issues": 2,
                     "owner": "AtomFlow-AI",
                     "repo": "MoleCode",
-                    "stars": 306,
+                    "stars": 308,
                     "topics": [
                       "ai-agent",
                       "ai-for-science",
@@ -10987,11 +11008,11 @@
                     "id": 211001860,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-22T03:55:46Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-10-22T22:03:09Z",
+                    "open_issues": 40,
                     "owner": "facebookresearch",
                     "repo": "fairchem",
-                    "stars": 2297,
+                    "stars": 2309,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -11012,7 +11033,7 @@
                     "open_issues": 135,
                     "owner": "materialsproject",
                     "repo": "pymatgen",
-                    "stars": 2001,
+                    "stars": 2002,
                     "topics": [
                       "materials",
                       "materials-informatics",
@@ -11060,11 +11081,11 @@
                     "id": 505964914,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-20T11:53:39Z",
-                    "open_issues": 260,
+                    "last_commit": "2026-10-22T13:26:35Z",
+                    "open_issues": 259,
                     "owner": "ACEsuit",
                     "repo": "mace",
-                    "stars": 1393,
+                    "stars": 1394,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -11085,7 +11106,7 @@
                     "open_issues": 33,
                     "owner": "google-deepmind",
                     "repo": "materials_discovery",
-                    "stars": 1246,
+                    "stars": 1247,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -11134,7 +11155,7 @@
                     "id": 147224878,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-21T07:09:24Z",
+                    "last_commit": "2026-10-22T06:42:27Z",
                     "open_issues": 11,
                     "owner": "atomistic-machine-learning",
                     "repo": "schnetpack",
@@ -11182,8 +11203,8 @@
                     "id": 651692511,
                     "language": null,
                     "license": "CC-BY-SA-4.0",
-                    "last_commit": "2026-10-18T21:55:50Z",
-                    "open_issues": 51,
+                    "last_commit": "2026-10-22T21:10:55Z",
+                    "open_issues": 52,
                     "owner": "JuDFTteam",
                     "repo": "best-of-atomistic-machine-learning",
                     "stars": 730,
@@ -11226,7 +11247,7 @@
                     "open_issues": 11,
                     "owner": "orbital-materials",
                     "repo": "orb-models",
-                    "stars": 623,
+                    "stars": 624,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -11389,7 +11410,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-15T06:24:09Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "CederGroupHub",
                     "repo": "chgnet",
                     "stars": 414,
@@ -11500,8 +11521,8 @@
                     "id": 996794364,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-20T12:25:10Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-22T20:29:54Z",
+                    "open_issues": 7,
                     "owner": "microsoft",
                     "repo": "skala",
                     "stars": 266,
@@ -11557,7 +11578,7 @@
                     "id": 1224431303,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-15T07:51:24Z",
+                    "last_commit": "2026-10-22T19:27:37Z",
                     "open_issues": 10,
                     "owner": "Hello-QM",
                     "repo": "catgo-LRG",
@@ -11594,11 +11615,11 @@
                     "id": 1167966684,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T22:34:36Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-10-22T22:50:04Z",
+                    "open_issues": 19,
                     "owner": "NVIDIA",
                     "repo": "nvalchemi-toolkit",
-                    "stars": 196,
+                    "stars": 197,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -11745,11 +11766,11 @@
                     "id": 524145041,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T14:35:00Z",
-                    "open_issues": 113,
+                    "last_commit": "2026-10-22T21:48:47Z",
+                    "open_issues": 112,
                     "owner": "PyLabRobot",
                     "repo": "pylabrobot",
-                    "stars": 599,
+                    "stars": 614,
                     "topics": [
                       "biotech",
                       "lab-automation"
@@ -11773,7 +11794,7 @@
                     "open_issues": 57,
                     "owner": "emdgroup",
                     "repo": "baybe",
-                    "stars": 516,
+                    "stars": 517,
                     "topics": [
                       "active-learning",
                       "bayesian-optimization",
@@ -11845,7 +11866,7 @@
                     "open_issues": 107,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6491,
+                    "stars": 6490,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -11866,7 +11887,7 @@
                     "open_issues": 51,
                     "owner": "maziarraissi",
                     "repo": "PINNs",
-                    "stars": 6217,
+                    "stars": 6219,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -11925,11 +11946,11 @@
                     "id": 767563789,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-21T17:08:10Z",
-                    "open_issues": 125,
+                    "last_commit": "2026-10-22T21:58:11Z",
+                    "open_issues": 143,
                     "owner": "google-deepmind",
                     "repo": "torax",
-                    "stars": 743,
+                    "stars": 744,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -11986,7 +12007,7 @@
                     "open_issues": 32,
                     "owner": "HenryHuYu",
                     "repo": "DiffPhysDrone",
-                    "stars": 646,
+                    "stars": 647,
                     "topics": [
                       "drone",
                       "end-to-end",
@@ -12189,7 +12210,7 @@
                     "open_issues": 4,
                     "owner": "atomicarchitects",
                     "repo": "equiformer_v3",
-                    "stars": 127,
+                    "stars": 128,
                     "topics": [
                       "catalyst-design",
                       "deep-learning",
@@ -12230,11 +12251,11 @@
                     "id": 2081289,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-21T21:23:20Z",
-                    "open_issues": 1387,
+                    "last_commit": "2026-10-22T19:37:11Z",
+                    "open_issues": 1384,
                     "owner": "astropy",
                     "repo": "astropy",
-                    "stars": 5352,
+                    "stars": 5353,
                     "topics": [
                       "astronomy",
                       "astrophysics",
@@ -12414,7 +12435,7 @@
                     "open_issues": 8,
                     "owner": "opengeos",
                     "repo": "segment-geospatial",
-                    "stars": 4174,
+                    "stars": 4175,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -12494,11 +12515,11 @@
                     "id": 782634112,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T23:24:45Z",
-                    "open_issues": 52,
+                    "last_commit": "2026-10-23T03:04:07Z",
+                    "open_issues": 54,
                     "owner": "NVIDIA",
                     "repo": "earth2studio",
-                    "stars": 1210,
+                    "stars": 1212,
                     "topics": [
                       "ai",
                       "climate-science",
@@ -12524,7 +12545,7 @@
                     "open_issues": 65,
                     "owner": "microsoft",
                     "repo": "aurora",
-                    "stars": 1031,
+                    "stars": 1032,
                     "topics": [
                       "atmospheric-chemistry",
                       "aurora-model",
@@ -12549,11 +12570,11 @@
                     "id": 753181435,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T22:18:58Z",
-                    "open_issues": 69,
+                    "last_commit": "2026-10-22T17:27:35Z",
+                    "open_issues": 70,
                     "owner": "neuralgcm",
                     "repo": "neuralgcm",
-                    "stars": 1027,
+                    "stars": 1028,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -12570,11 +12591,11 @@
                     "id": 801016442,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T05:24:14Z",
-                    "open_issues": 54,
+                    "last_commit": "2026-10-22T08:08:41Z",
+                    "open_issues": 53,
                     "owner": "torchgeo",
                     "repo": "terratorch",
-                    "stars": 875,
+                    "stars": 876,
                     "topics": [
                       "ai4good",
                       "ai4science",
@@ -12713,6 +12734,31 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Earth-Agent",
+                  "description": "LLM agent framework for Earth Observation with 104 specialized tools across 5 functional kits",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICLR 2026] The official implementation of the paper “Earth-Agent: Unlocking the Full Landscape of Earth Observation with Agents”",
+                    "homepage": "https://opendatalab.github.io/Earth-Agent/",
+                    "id": 1073410668,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-04-02T02:54:02Z",
+                    "open_issues": 13,
+                    "owner": "opendatalab",
+                    "repo": "Earth-Agent",
+                    "stars": 225,
+                    "topics": [
+                      "earth-agent",
+                      "earth-bench",
+                      "earth-observation"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T11:11:20.681Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Aardvark Weather (Cambridge MLIP, Nature 2025)",
                   "description": "First end-to-end data-driven weather prediction system learning directly from raw, heterogeneous Earth observations rather than physics-based reanalysis, producing both global gridded and arbitrary station forecasts; releases model weights, training code, and an ML-ready observational dataset (2007-2019) for building future end-to-end weather models (221+ stars, CC0-1.0)",
                   "children": [],
@@ -12731,31 +12777,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-09-09T04:26:26.186Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Earth-Agent",
-                  "description": "LLM agent framework for Earth Observation with 104 specialized tools across 5 functional kits",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICLR 2026] The official implementation of the paper “Earth-Agent: Unlocking the Full Landscape of Earth Observation with Agents”",
-                    "homepage": "https://opendatalab.github.io/Earth-Agent/",
-                    "id": 1073410668,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-04-02T02:54:02Z",
-                    "open_issues": 13,
-                    "owner": "opendatalab",
-                    "repo": "Earth-Agent",
-                    "stars": 224,
-                    "topics": [
-                      "earth-agent",
-                      "earth-bench",
-                      "earth-observation"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T11:11:20.681Z"
                 },
                 {
                   "node_type": "item",
@@ -12885,8 +12906,8 @@
                     "id": 912727930,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T21:41:52Z",
-                    "open_issues": 633,
+                    "last_commit": "2026-10-22T21:32:59Z",
+                    "open_issues": 640,
                     "owner": "ecmwf",
                     "repo": "WeatherGenerator",
                     "stars": 147,
@@ -12981,7 +13002,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-10T08:34:47Z",
-                    "open_issues": 8,
+                    "open_issues": 10,
                     "owner": "neuralhydrology",
                     "repo": "neuralhydrology",
                     "stars": 588,
@@ -13096,11 +13117,11 @@
                     "id": 369428935,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T20:28:49Z",
-                    "open_issues": 228,
+                    "last_commit": "2026-10-22T14:55:30Z",
+                    "open_issues": 225,
                     "owner": "torchgeo",
                     "repo": "torchgeo",
-                    "stars": 4208,
+                    "stars": 4210,
                     "topics": [
                       "computer-vision",
                       "datasets",
@@ -13133,7 +13154,7 @@
                     "open_issues": 18,
                     "owner": "Jack-bo1220",
                     "repo": "Awesome-Remote-Sensing-Foundation-Models",
-                    "stars": 1959,
+                    "stars": 1960,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -13154,7 +13175,7 @@
                     "open_issues": 5,
                     "owner": "ucam-eo",
                     "repo": "tessera",
-                    "stars": 764,
+                    "stars": 766,
                     "topics": [
                       "foundation-models",
                       "machine-learning",
@@ -13208,7 +13229,7 @@
                     "open_issues": 5,
                     "owner": "opengeos",
                     "repo": "GeoAgent",
-                    "stars": 514,
+                    "stars": 515,
                     "topics": [
                       "ai-agent",
                       "geospatial",
@@ -13257,7 +13278,7 @@
                     "open_issues": 18,
                     "owner": "IBM",
                     "repo": "terramind",
-                    "stars": 325,
+                    "stars": 326,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -13361,7 +13382,7 @@
                     "id": 17755890,
                     "language": "Python",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-10-21T18:27:09Z",
+                    "last_commit": "2026-10-22T18:51:24Z",
                     "open_issues": 47,
                     "owner": "danforthcenter",
                     "repo": "plantcv",
@@ -13388,8 +13409,8 @@
                     "id": 422590908,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-20T03:41:15Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-10-22T16:41:01Z",
+                    "open_issues": 15,
                     "owner": "Project-AgML",
                     "repo": "AgML",
                     "stars": 350,
@@ -13449,7 +13470,7 @@
                     "open_issues": 0,
                     "owner": "montimaj",
                     "repo": "agribound",
-                    "stars": 94,
+                    "stars": 95,
                     "topics": [
                       "agriculture",
                       "computer-vision",
@@ -13482,11 +13503,11 @@
                     "id": 409216041,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T23:28:49Z",
-                    "open_issues": 82,
+                    "last_commit": "2026-10-23T00:46:00Z",
+                    "open_issues": 83,
                     "owner": "birdnet-team",
                     "repo": "BirdNET-Analyzer",
-                    "stars": 1741,
+                    "stars": 1742,
                     "topics": [
                       "acoustic-monitoring",
                       "bioacoustics",
@@ -13579,7 +13600,7 @@
                     "open_issues": 4,
                     "owner": "Imageomics",
                     "repo": "bioclip-2",
-                    "stars": 99,
+                    "stars": 100,
                     "topics": [
                       "biology",
                       "clip",
@@ -13657,7 +13678,7 @@
                     "open_issues": 2,
                     "owner": "brycewang-stanford",
                     "repo": "Auto-Empirical-Research-Skills",
-                    "stars": 4713,
+                    "stars": 4733,
                     "topics": [
                       "academic-research",
                       "agent-skills",
@@ -13696,7 +13717,7 @@
                     "open_issues": 33,
                     "owner": "tsinghua-fib-lab",
                     "repo": "AgentSociety",
-                    "stars": 1360,
+                    "stars": 1361,
                     "topics": [
                       "agent",
                       "agent-based-modeling",
@@ -13724,7 +13745,7 @@
                     "id": 738290765,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T21:46:10Z",
+                    "last_commit": "2026-10-22T20:19:21Z",
                     "open_issues": 59,
                     "owner": "expectedparrot",
                     "repo": "edsl",
@@ -13768,7 +13789,7 @@
                     "open_issues": 10,
                     "owner": "openai",
                     "repo": "GABRIEL",
-                    "stars": 443,
+                    "stars": 444,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:11:20.681Z"
@@ -13807,7 +13828,7 @@
                 "open_issues": 2,
                 "owner": "Emmi-AI",
                 "repo": "noether",
-                "stars": 248,
+                "stars": 249,
                 "topics": [
                   "cfd",
                   "deep-learning",
@@ -13842,7 +13863,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-12T08:20:52Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "structureclaw",
                 "repo": "structureclaw",
                 "stars": 189,
@@ -13869,11 +13890,11 @@
                 "id": 1199643986,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-22T03:26:58Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-22T22:01:50Z",
+                "open_issues": 7,
                 "owner": "datadrivenconstruction",
                 "repo": "OpenConstructionERP",
-                "stars": 1015,
+                "stars": 1021,
                 "topics": [
                   "ai",
                   "bim",
@@ -13950,7 +13971,7 @@
                 "open_issues": 39,
                 "owner": "google-research",
                 "repo": "circuit_training",
-                "stars": 1731,
+                "stars": 1732,
                 "topics": []
               },
               "first_seen": "2026-10-22T04:26:55.661Z"
@@ -13967,11 +13988,11 @@
                 "id": 1176559390,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T00:10:28Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-22T21:20:40Z",
+                "open_issues": 3,
                 "owner": "aklofas",
                 "repo": "kicad-happy",
-                "stars": 1476,
+                "stars": 1485,
                 "topics": [
                   "ai-skills",
                   "bom-management",
@@ -14023,10 +14044,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T19:36:25Z",
-                "open_issues": 267,
+                "open_issues": 268,
                 "owner": "google-research",
                 "repo": "timesfm",
-                "stars": 34697,
+                "stars": 34721,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -14043,11 +14064,11 @@
                 "id": 509436902,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T17:23:32Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-22T05:33:28Z",
+                "open_issues": 27,
                 "owner": "PriorLabs",
                 "repo": "TabPFN",
-                "stars": 8250,
+                "stars": 8255,
                 "topics": [
                   "data-science",
                   "foundation-models",
@@ -14071,10 +14092,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T14:25:02Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "amazon-science",
                 "repo": "chronos-forecasting",
-                "stars": 6170,
+                "stars": 6178,
                 "topics": [
                   "artificial-intelligence",
                   "forecasting",
@@ -14109,7 +14130,7 @@
                 "open_issues": 49,
                 "owner": "google-research",
                 "repo": "tabfm",
-                "stars": 2794,
+                "stars": 2796,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -14204,7 +14225,7 @@
                 "open_issues": 22,
                 "owner": "InternLM",
                 "repo": "Intern-S1",
-                "stars": 869,
+                "stars": 870,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -14222,10 +14243,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-02-10T21:06:25Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "moment-timeseries-foundation-model",
                 "repo": "moment",
-                "stars": 862,
+                "stars": 864,
                 "topics": [
                   "anomaly-detection",
                   "classification",
@@ -14375,7 +14396,7 @@
                 "open_issues": 22,
                 "owner": "Google-Health",
                 "repo": "medgemma",
-                "stars": 1636,
+                "stars": 1640,
                 "topics": []
               },
               "first_seen": "2026-09-12T04:22:06.514Z"
@@ -14413,11 +14434,11 @@
                 "id": 705428944,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-21T21:01:14Z",
-                "open_issues": 239,
+                "last_commit": "2026-10-23T04:18:12Z",
+                "open_issues": 240,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-recipes",
-                "stars": 871,
+                "stars": 874,
                 "topics": [
                   "drug-discovery",
                   "gpu",
@@ -14439,11 +14460,11 @@
                 "id": 705428944,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-21T21:01:14Z",
-                "open_issues": 239,
+                "last_commit": "2026-10-23T04:18:12Z",
+                "open_issues": 240,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-recipes",
-                "stars": 871,
+                "stars": 874,
                 "topics": [
                   "drug-discovery",
                   "gpu",
@@ -14524,7 +14545,7 @@
                 "open_issues": 74,
                 "owner": "mims-harvard",
                 "repo": "TDC",
-                "stars": 1297,
+                "stars": 1298,
                 "topics": [
                   "artificial-intelligence",
                   "benchmarks",
@@ -14561,7 +14582,7 @@
                 "open_issues": 4,
                 "owner": "ArcInstitute",
                 "repo": "arc-virtual-cell-atlas",
-                "stars": 639,
+                "stars": 640,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -14670,7 +14691,7 @@
                 "open_issues": 20,
                 "owner": "PolymathicAI",
                 "repo": "the_well",
-                "stars": 4478,
+                "stars": 4479,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -14730,11 +14751,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T04:27:08Z",
-                "open_issues": 2576,
+                "last_commit": "2026-10-23T03:56:51Z",
+                "open_issues": 2570,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36482,
+                "stars": 36487,
                 "topics": [
                   "jax"
                 ]
@@ -14760,8 +14781,8 @@
                 "id": 55262614,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T21:54:45Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-22T08:45:52Z",
+                "open_issues": 51,
                 "owner": "FluxML",
                 "repo": "Flux.jl",
                 "stars": 4756,
@@ -14792,7 +14813,7 @@
                 "open_issues": 115,
                 "owner": "SciML",
                 "repo": "DifferentialEquations.jl",
-                "stars": 3169,
+                "stars": 3170,
                 "topics": [
                   "dae",
                   "dde",
@@ -14831,7 +14852,7 @@
                 "language": "Julia",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-21T21:09:54Z",
-                "open_issues": 732,
+                "open_issues": 733,
                 "owner": "SciML",
                 "repo": "ModelingToolkit.jl",
                 "stars": 1696,
@@ -15016,7 +15037,7 @@
                 "language": "Julia",
                 "license": "MIT",
                 "last_commit": "2026-10-21T09:10:37Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "SciML",
                 "repo": "SciMLBenchmarks.jl",
                 "stars": 347,
@@ -15056,11 +15077,11 @@
                 "id": 938058607,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T20:34:05Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-22T18:19:43Z",
+                "open_issues": 42,
                 "owner": "pasteurlabs",
                 "repo": "tesseract-core",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "automatic-differentiation",
                   "containers",
@@ -15093,7 +15114,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-21T23:53:00Z",
-                "open_issues": 1377,
+                "open_issues": 1379,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
                 "stars": 24128,
@@ -15144,10 +15165,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-19T17:41:56Z",
-                "open_issues": 534,
+                "open_issues": 539,
                 "owner": "pymc-devs",
                 "repo": "pymc",
-                "stars": 9818,
+                "stars": 9821,
                 "topics": [
                   "bayesian-inference",
                   "mcmc",
@@ -15172,11 +15193,11 @@
                 "id": 83821669,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T00:31:48Z",
+                "last_commit": "2026-10-23T03:11:49Z",
                 "open_issues": 1026,
                 "owner": "Qiskit",
                 "repo": "qiskit",
-                "stars": 7915,
+                "stars": 7920,
                 "topics": [
                   "c",
                   "python",
@@ -15203,11 +15224,11 @@
                 "id": 471527576,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T21:26:15Z",
-                "open_issues": 383,
+                "last_commit": "2026-10-22T23:51:08Z",
+                "open_issues": 385,
                 "owner": "NVIDIA",
                 "repo": "warp",
-                "stars": 7223,
+                "stars": 7226,
                 "topics": [
                   "cuda",
                   "differentiable-programming",
@@ -15232,11 +15253,11 @@
                 "id": 970467647,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T01:03:27Z",
-                "open_issues": 451,
+                "last_commit": "2026-10-22T22:48:27Z",
+                "open_issues": 440,
                 "owner": "newton-physics",
                 "repo": "newton",
-                "stars": 5822,
+                "stars": 5826,
                 "topics": [
                   "newton-physics",
                   "nvidia-warp",
@@ -15258,8 +15279,8 @@
                 "id": 129936360,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T22:11:01Z",
-                "open_issues": 456,
+                "last_commit": "2026-10-22T21:56:00Z",
+                "open_issues": 462,
                 "owner": "PennyLaneAI",
                 "repo": "pennylane",
                 "stars": 3507,
@@ -15298,8 +15319,8 @@
                 "id": 114006193,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-21T17:53:05Z",
-                "open_issues": 244,
+                "last_commit": "2026-10-23T03:02:11Z",
+                "open_issues": 249,
                 "owner": "deepmodeling",
                 "repo": "deepmd-kit",
                 "stars": 2064,
@@ -15340,11 +15361,11 @@
                 "id": 10178188,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-16T16:06:14Z",
-                "open_issues": 455,
+                "last_commit": "2026-10-22T20:45:18Z",
+                "open_issues": 454,
                 "owner": "openmm",
                 "repo": "openmm",
-                "stars": 2006,
+                "stars": 2007,
                 "topics": [
                   "molecular-dynamics",
                   "simulation"
@@ -15364,8 +15385,8 @@
                 "id": 33389183,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T09:31:44Z",
-                "open_issues": 538,
+                "last_commit": "2026-10-22T12:39:02Z",
+                "open_issues": 544,
                 "owner": "MDAnalysis",
                 "repo": "mdanalysis",
                 "stars": 1667,
@@ -15419,7 +15440,7 @@
                 "open_issues": 32,
                 "owner": "google",
                 "repo": "jax-cfd",
-                "stars": 966,
+                "stars": 965,
                 "topics": [
                   "cfd",
                   "jax"
@@ -15439,11 +15460,11 @@
                 "id": 97248567,
                 "language": "Cuda",
                 "license": null,
-                "last_commit": "2026-10-22T04:25:42Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-22T18:52:37Z",
+                "open_issues": 21,
                 "owner": "brucefan1983",
                 "repo": "GPUMD",
-                "stars": 857,
+                "stars": 858,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -15480,7 +15501,7 @@
                 "open_issues": 1,
                 "owner": "simchowitzlabpublic",
                 "repo": "nano-world-model",
-                "stars": 764,
+                "stars": 767,
                 "topics": [
                   "diffusion-forcing",
                   "diffusion-models",
@@ -15556,11 +15577,11 @@
                 "id": 942098617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-18T08:15:24Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-22T10:26:21Z",
+                "open_issues": 26,
                 "owner": "TorchSim",
                 "repo": "torch-sim",
-                "stars": 502,
+                "stars": 503,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -15819,7 +15840,7 @@
                 "open_issues": 12,
                 "owner": "hyperai",
                 "repo": "awesome-ai4s",
-                "stars": 3391,
+                "stars": 3390,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:11:20.681Z"
@@ -15840,7 +15861,7 @@
                 "open_issues": 11,
                 "owner": "InternScience",
                 "repo": "Awesome-Scientific-Skills",
-                "stars": 572,
+                "stars": 573,
                 "topics": [
                   "agent-skills",
                   "awesome-list",
@@ -15986,7 +16007,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-28T14:35:15Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "zjlrock777",
                 "repo": "Awesome-LLM-Agents-Scientific-Discovery",
                 "stars": 82,
@@ -16112,7 +16133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T04:26:55.661Z",
+    "last_updated": "2026-10-23T04:32:07.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
@@ -16120,11 +16141,11 @@
       "id": 1069616483,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-21T08:30:52Z",
-      "open_issues": 50,
+      "last_commit": "2026-10-22T08:33:23Z",
+      "open_issues": 51,
       "owner": "ai4s-research",
       "repo": "awesome-ai-for-science",
-      "stars": 2039,
+      "stars": 2042,
       "topics": [
         "ai-for-science",
         "ai4s",
@@ -16135,7 +16156,7 @@
         "scientific-ai"
       ]
     },
-    "original_repository_sha": "4cebc49484d8c1c81c4a09c072a5b27576dfdfc8",
+    "original_repository_sha": "ba6deb3ef2fda3ff10ec8d30e3ca60084d514b1d",
     "enhanced_repository": "enhansome/enhansome-ai-for-science",
     "enhanced_repository_description": null,
     "title": "Awesome ai for science with stars"
